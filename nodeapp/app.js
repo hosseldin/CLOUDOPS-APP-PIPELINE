@@ -32,7 +32,7 @@ app.get("/db", (req, res) => {
                 <head><title>DB Connection</title></head>
                 <body style="font-family: Arial; background-color: #e6ffe6; padding: 20px;">
                     <h1 style="color: green;">✅ DB connection successful</h1>
-                    <p>Pipeline completed successfullyyy.</p>
+                    <p>Pipeline completed successfullyy.</p>
                 </body>
             </html>
         `);
