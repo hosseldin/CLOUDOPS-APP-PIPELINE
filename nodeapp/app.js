@@ -68,7 +68,7 @@ app.get('/redis', (req, res) => {
             <html>
                 <head><title>Redis Connection</title></head>
                 <body style="font-family: Arial; background-color: #e6ffe6; padding: 20px;">
-                    <h1 style="color: green;">✅ Redis connected successfully</h1>
+                    <h1 style="color: green;">✅ Redis  successfully</h1>
                     <p>Message: Redis is working now! Testing Demo Now..</p>
                 </body>
             </html>
